@@ -1,0 +1,10 @@
+h5py
+scipy
+opencv-python
+matplotlib
+tqdm
+numpy
+scikit-image
+PySide2
+pyopengl
+pyglm
